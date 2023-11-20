@@ -1,0 +1,4 @@
+Load image data from a CSV file,
+Prepare a dataset,
+Define a convolutional neural network (CNN) model,
+Create a data loader using Dataset and DataLoader classes.
